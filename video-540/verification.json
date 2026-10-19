@@ -1,0 +1,237 @@
+{
+  "duration_seconds": 340,
+  "width": 1920,
+  "height": 1080,
+  "frames": 8160,
+  "full_decode": "passed",
+  "fonts": {
+    "family": "Pretendard",
+    "version": "1.3.9",
+    "source": "https://github.com/orioncactus/pretendard/releases/tag/v1.3.9",
+    "headings_weight": 800,
+    "body_and_subtitles_weight": 700,
+    "files": {
+      "OFL.txt": "d31ddd9f2bed32fd7e302a205cf2380ba0de6529152d239ef99cfb6f261bfc04",
+      "Pretendard-Bold.otf": "2e91915fab54df71cc9598ebf608b2bdb54c6fe3c066ac61dff0bc44fca71cc7",
+      "Pretendard-ExtraBold.otf": "c35fe941b7568d52a96010561540e47f9d3948dfde66ba25bc1908233e0a40cd"
+    }
+  },
+  "motion_speed_factor": 2.5,
+  "bottom_subtitles": false,
+  "voice": {
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "rate": "+4%",
+    "pitch": "-6Hz",
+    "paragraph_tempo_factors": [
+      1.00885045533613,
+      0.9693008133552503,
+      1.0613635824116534,
+      1.0633715060263031,
+      1.0162095856088855,
+      1.0517761850414666,
+      1.0295657905892324,
+      1.025874668586378,
+      1.0128523864607955,
+      1.041008984887171,
+      1.0093911646753893,
+      1.005024120319226,
+      1.0223929029807068,
+      1.0442706914587023,
+      1.0161796310153526,
+      1.0670379050780396,
+      1.0148289710050429,
+      1.022889662362659,
+      1.0611839338702838,
+      1.068801339115879,
+      0.9955748699786221,
+      1.049613744988334,
+      1.0386192414996498,
+      1.0573294943737694,
+      1.0194061371967182,
+      0.9756169158286331,
+      1.0275896566341667
+    ],
+    "speech_seconds": 337,
+    "total_seconds": 340,
+    "reference": "Stock adult male voice; no voice cloning"
+  },
+  "stock_shots": [
+    {
+      "id": "01",
+      "in": 10,
+      "out": 13.0,
+      "clip": 5,
+      "source_id": "4440691",
+      "frames": 77
+    },
+    {
+      "id": "02",
+      "in": 25,
+      "out": 29.8,
+      "clip": 21,
+      "source_id": "4872863",
+      "frames": 119
+    },
+    {
+      "id": "03",
+      "in": 40,
+      "out": 44.8,
+      "clip": 1,
+      "source_id": "15872811",
+      "frames": 119
+    },
+    {
+      "id": "04",
+      "in": 55,
+      "out": 59.8,
+      "clip": 11,
+      "source_id": "6611954",
+      "frames": 119
+    },
+    {
+      "id": "05",
+      "in": 70,
+      "out": 74.8,
+      "clip": 12,
+      "source_id": "6756650",
+      "frames": 119
+    },
+    {
+      "id": "06",
+      "in": 85,
+      "out": 89.8,
+      "clip": 4,
+      "source_id": "6279140",
+      "frames": 119
+    },
+    {
+      "id": "07",
+      "in": 100,
+      "out": 104.8,
+      "clip": 16,
+      "source_id": "5092427",
+      "frames": 119
+    },
+    {
+      "id": "08",
+      "in": 115,
+      "out": 119.8,
+      "clip": 15,
+      "source_id": "34845729",
+      "frames": 119
+    },
+    {
+      "id": "09",
+      "in": 130,
+      "out": 133.895,
+      "clip": 42,
+      "source_id": "13283745",
+      "frames": 97
+    },
+    {
+      "id": "10",
+      "in": 145,
+      "out": 149.8,
+      "clip": 3,
+      "source_id": "6258096",
+      "frames": 119
+    },
+    {
+      "id": "11",
+      "in": 160,
+      "out": 164.8,
+      "clip": 28,
+      "source_id": "10045424",
+      "frames": 119
+    },
+    {
+      "id": "12",
+      "in": 175,
+      "out": 179.8,
+      "clip": 8,
+      "source_id": "6195929",
+      "frames": 119
+    },
+    {
+      "id": "13",
+      "in": 190,
+      "out": 194.8,
+      "clip": 1,
+      "source_id": "15872811",
+      "frames": 119
+    },
+    {
+      "id": "14",
+      "in": 205,
+      "out": 208.0,
+      "clip": 5,
+      "source_id": "4440691",
+      "frames": 76
+    },
+    {
+      "id": "15",
+      "in": 220,
+      "out": 224.8,
+      "clip": 17,
+      "source_id": "3736793",
+      "frames": 119
+    },
+    {
+      "id": "16",
+      "in": 235,
+      "out": 239.8,
+      "clip": 21,
+      "source_id": "4872863",
+      "frames": 119
+    },
+    {
+      "id": "17",
+      "in": 250,
+      "out": 254.8,
+      "clip": 30,
+      "source_id": "7578510",
+      "frames": 119
+    },
+    {
+      "id": "18",
+      "in": 265,
+      "out": 267.125,
+      "clip": 24,
+      "source_id": "4443243",
+      "frames": 55
+    },
+    {
+      "id": "19",
+      "in": 280,
+      "out": 284.8,
+      "clip": 4,
+      "source_id": "6279140",
+      "frames": 119
+    },
+    {
+      "id": "20",
+      "in": 295,
+      "out": 299.8,
+      "clip": 31,
+      "source_id": "7131563",
+      "frames": 119
+    },
+    {
+      "id": "21",
+      "in": 310,
+      "out": 313.213333,
+      "clip": 40,
+      "source_id": "12315445",
+      "frames": 81
+    },
+    {
+      "id": "22",
+      "in": 325,
+      "out": 329.8,
+      "clip": 23,
+      "source_id": "6326847",
+      "frames": 119
+    }
+  ],
+  "sha256": "dc265a6fff85be7c73e700ca3b0cc38541afd7af3ea3632ddaac3bf0e49b53db"
+}
